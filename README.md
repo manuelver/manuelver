@@ -11,10 +11,10 @@
 
 <br>
 
-[![Web](https://img.shields.io/badge/Web-vergaracarmona.es-yellow)](https://vergaracarmona.es)
-[![Respositorio Gitea](https://img.shields.io/badge/Repositorio-Gitea-red)](https://gitea.vergaracarmona.es/manuelver)
-[![Certificaciones](https://img.shields.io/badge/Link-Certificaciones-9cf)](https://vergaracarmona.es/certificaciones)
-[![Linkedin](https://img.shields.io/badge/Red-Linkedin-orange)](https://www.linkedin.com/in/manu-vergara)
+[![Web](https://img.shields.io/badge/vergaracarmona.es-yellow?style=for-the-badge)](https://vergaracarmona.es)
+[![Respositorio Gitea](https://img.shields.io/badge/Gitea-green?style=for-the-badge)](https://gitea.vergaracarmona.es/manuelver)
+[![Certificaciones](https://img.shields.io/badge/Certificaciones-orange?style=for-the-badge)](https://vergaracarmona.es/certificaciones)
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/manu-vergara)
 
 
 <br>
