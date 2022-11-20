@@ -23,7 +23,7 @@
 
 ## Blog of notes (In Spanish)
 
-[Apuntes](https://vergaracarmona.es/apuntes)
+[Last notes](https://vergaracarmona.es/apuntes):
 
 <!-- APUNTES:START -->
 - [Borrar commits de git: reset, rebase y cherry-pick](https://vergaracarmona.es/reset-rebase-cherry-pick/)
