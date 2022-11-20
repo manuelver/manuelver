@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on: 
     schedule:
-        - cron: '0 * * * *'
+        - cron: '* * * * *'
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
@@ -10,7 +10,7 @@ jobs:
             - name: Checkout
               uses: actions/checkout@v2
             - name: Pull in dev.to posts
-              uses: manuelver/manuelver@main
+              uses: manuelver/manuelver@v1
               with: 
                 max_post_count: "4"
                 feed_list: "https://vergaracarmona.es/feed/"
