@@ -30,6 +30,12 @@
 - [Copiar y pegar desde la terminal](https://vergaracarmona.es/copiar-y-pegar-desde-la-terminal/)
 - [Comparando TOML, JSON y YAML](https://vergaracarmona.es/comparando-toml-json-y-yaml/)
 - [Resolver conflictos en Git. Merge, Squash, Rebase o Pull](https://vergaracarmona.es/merge-squash-rebase-pull/)
+- [Guía del comando jq](https://vergaracarmona.es/guia-del-comando-jq/)
+- [Zsh: Configuración, personalización y algo más](https://vergaracarmona.es/zsh/)
+- [Estrategias de fusión en git: Ship / Show / Ask](https://vergaracarmona.es/estrategias-bifurcacion-git-ship-show-ask/)
+- [12 ejemplos de comando cURL](https://vergaracarmona.es/ejemplos-de-comando-curl/)
+- [Una breve historia de los contenedores](https://vergaracarmona.es/breve-historia-de-contenedores/)
+- [Apuntes AWS y resumen de sus servicios](https://vergaracarmona.es/apuntes-aws-y-resumen-de-sus-servicios/)
 <!-- APUNTES:END -->
 
 
