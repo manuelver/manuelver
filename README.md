@@ -23,7 +23,7 @@
 
 ## Blog of notes (In Spanish)
 
-[Apuntes](https://vergaracarmona.es/apuntes)
+[Last notes](https://vergaracarmona.es/apuntes):
 
 <!-- APUNTES:START -->
 <!-- APUNTES:END -->
