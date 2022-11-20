@@ -1,7 +1,7 @@
-name: Workflow ultima artículo en el blog
+name: Workflow ultimo artículo en el blog
 on: 
     schedule:
-        - cron: '6 * * * *'
+        - cron: '* * * * *'
 jobs: 
     update-readme-with-blog: 
         name: Actualizar el README de este repo con las últimas publicaciones del blog
