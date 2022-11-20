@@ -7,8 +7,10 @@ jobs:
         name: Update this repo's README with latest blog posts
         runs-on: ubuntu-latest
         steps: 
-            - uses: actions/checkout@v2
-            - uses: manuelver/blog-post-workflow@master
+            - name: Checkout
+              uses: actions/checkout@v2
+            - name: Pull in dev.to posts
+              uses: manuelver/manuelver@main
               with: 
                 max_post_count: "4"
                 comment_tag_name: "APUNTES"
