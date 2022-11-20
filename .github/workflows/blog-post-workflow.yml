@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on: 
     schedule:
-        - cron: '* * * * *'
+        - cron: '0 * * * *'
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
@@ -13,6 +13,4 @@ jobs:
               uses: manuelver/manuelver@main
               with: 
                 max_post_count: "4"
-                comment_tag_name: "APUNTES"
-                commit_message: "Updated readme with the latest apuntes blog"
                 feed_list: "https://vergaracarmona.es/feed/"
