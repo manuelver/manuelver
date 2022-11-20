@@ -26,6 +26,10 @@
 [Apuntes](https://vergaracarmona.es/apuntes)
 
 <!-- APUNTES:START -->
+- [Borrar commits de git: reset, rebase y cherry-pick](https://vergaracarmona.es/reset-rebase-cherry-pick/)
+- [Copiar y pegar desde la terminal](https://vergaracarmona.es/copiar-y-pegar-desde-la-terminal/)
+- [Comparando TOML, JSON y YAML](https://vergaracarmona.es/comparando-toml-json-y-yaml/)
+- [Resolver conflictos en Git. Merge, Squash, Rebase o Pull](https://vergaracarmona.es/merge-squash-rebase-pull/)
 <!-- APUNTES:END -->
 
 
