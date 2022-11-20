@@ -1,10 +1,10 @@
-name: Workflow ultimo artículo en el blog
+name: Latest blog post workflow
 on: 
     schedule:
         - cron: '* * * * *'
 jobs: 
     update-readme-with-blog: 
-        name: Actualizar el README de este repo con las últimas publicaciones del blog
+        name: Update this repo's README with latest blog posts
         runs-on: ubuntu-latest
         steps: 
             - uses: actions/checkout@v2
