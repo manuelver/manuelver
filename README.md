@@ -68,7 +68,7 @@
 [![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelver&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/manuelver/github-readme-stats#gh-dark-mode-only)
 
 
-[![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelver&layout=compact&theme=dark#gh-light-mode-only)](https://github.com/manuelver/github-readme-stats#gh-light-mode-only)
+[![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelver&layout=compact&theme=light#gh-light-mode-only)](https://github.com/manuelver/github-readme-stats#gh-light-mode-only)
 
 ---
 
