@@ -25,6 +25,7 @@
 [Last notes (In Spanish)](https://vergaracarmona.es/apuntes):
 
 <!-- APUNTES:START -->
+- [Helm Umbrella Charts](https://vergaracarmona.es/helm-umbrella-charts/)
 - [Borrar commits de git: reset, rebase y cherry-pick](https://vergaracarmona.es/reset-rebase-cherry-pick/)
 - [Copiar y pegar desde la terminal](https://vergaracarmona.es/copiar-y-pegar-desde-la-terminal/)
 - [Comparando TOML, JSON y YAML](https://vergaracarmona.es/comparando-toml-json-y-yaml/)
@@ -34,7 +35,6 @@
 - [Estrategias de fusión en git: Ship / Show / Ask](https://vergaracarmona.es/estrategias-bifurcacion-git-ship-show-ask/)
 - [12 ejemplos de comando cURL](https://vergaracarmona.es/ejemplos-de-comando-curl/)
 - [Una breve historia de los contenedores](https://vergaracarmona.es/breve-historia-de-contenedores/)
-- [Apuntes AWS y resumen de sus servicios](https://vergaracarmona.es/apuntes-aws-y-resumen-de-sus-servicios/)
 <!-- APUNTES:END -->
 
 <br>
