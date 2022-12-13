@@ -25,6 +25,7 @@
 [Last notes (In Spanish)](https://vergaracarmona.es/apuntes):
 
 <!-- APUNTES:START -->
+- [Tutorial de Vim](https://vergaracarmona.es/tutorial-de-vim/)
 - [grep, find y locate. Comandos de búsqueda en Linux](https://vergaracarmona.es/grep-find-locate-comandos-linux/)
 - [Helm Umbrella Charts](https://vergaracarmona.es/helm-umbrella-charts/)
 - [Borrar commits de git: reset, rebase y cherry-pick](https://vergaracarmona.es/reset-rebase-cherry-pick/)
@@ -34,7 +35,6 @@
 - [Guía del comando jq](https://vergaracarmona.es/guia-del-comando-jq/)
 - [Zsh: Configuración, personalización y algo más](https://vergaracarmona.es/zsh/)
 - [Estrategias de fusión en git: Ship / Show / Ask](https://vergaracarmona.es/estrategias-bifurcacion-git-ship-show-ask/)
-- [12 ejemplos de comando cURL](https://vergaracarmona.es/ejemplos-de-comando-curl/)
 <!-- APUNTES:END -->
 
 <br>
