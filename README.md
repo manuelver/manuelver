@@ -25,6 +25,7 @@
 [Last notes (In Spanish)](https://vergaracarmona.es/apuntes):
 
 <!-- APUNTES:START -->
+- [Cómo manejar un incidente post mortem informático](https://vergaracarmona.es/como-manejar-un-incidente-post-mortem-informatico/)
 - [Tutorial de Vim](https://vergaracarmona.es/tutorial-de-vim/)
 - [grep, find y locate. Comandos de búsqueda en Linux](https://vergaracarmona.es/grep-find-locate-comandos-linux/)
 - [Helm Umbrella Charts](https://vergaracarmona.es/helm-umbrella-charts/)
@@ -34,7 +35,6 @@
 - [Resolver conflictos en Git. Merge, Squash, Rebase o Pull](https://vergaracarmona.es/merge-squash-rebase-pull/)
 - [Guía del comando jq](https://vergaracarmona.es/guia-del-comando-jq/)
 - [Zsh: Configuración, personalización y algo más](https://vergaracarmona.es/zsh/)
-- [Estrategias de fusión en git: Ship / Show / Ask](https://vergaracarmona.es/estrategias-bifurcacion-git-ship-show-ask/)
 <!-- APUNTES:END -->
 
 <br>
