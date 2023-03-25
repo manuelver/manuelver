@@ -4,13 +4,6 @@
 
 ## Manuel Vergara - SysAdmin
 
-### In the Cloud and DevOps culture
-<a href="https://vergaracarmona.es" >
-    <img src="https://vergaracarmona.es/wp-content/uploads/2022/05/Icono-3.png" width="70%"/>
-</a>
-
-<br>
-
 ### We are what we do
 
 [![Web](https://img.shields.io/badge/vergaracarmona.es-yellow?style=for-the-badge)](https://vergaracarmona.es) 
