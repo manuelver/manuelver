@@ -18,6 +18,7 @@
 [Last notes (In Spanish)](https://vergaracarmona.es/apuntes):
 
 <!-- APUNTES:START -->
+- [Herramientas para Terraform](https://vergaracarmona.es/herramientas-para-terraform/)
 - [Guía del comando sed](https://vergaracarmona.es/comando-sed/)
 - [Cómo manejar un incidente post mortem informático](https://vergaracarmona.es/como-manejar-un-incidente-post-mortem-informatico/)
 - [Tutorial de Vim](https://vergaracarmona.es/tutorial-de-vim/)
@@ -27,7 +28,6 @@
 - [Copiar y pegar desde la terminal](https://vergaracarmona.es/copiar-y-pegar-desde-la-terminal/)
 - [Comparando TOML, JSON y YAML](https://vergaracarmona.es/comparando-toml-json-y-yaml/)
 - [Resolver conflictos en Git. Merge, Squash, Rebase o Pull](https://vergaracarmona.es/merge-squash-rebase-pull/)
-- [Guía del comando jq](https://vergaracarmona.es/guia-del-comando-jq/)
 <!-- APUNTES:END -->
 
 <br>
