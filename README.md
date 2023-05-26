@@ -18,6 +18,7 @@
 [Last notes (In Spanish)](https://vergaracarmona.es/apuntes):
 
 <!-- APUNTES:START -->
+- [Código Espagueti, el «anti patrón» de programación](https://vergaracarmona.es/codigo-espagueti-el-anti-patron-de-programacion/)
 - [Ejecutar Charts de Helm con helmfile](https://vergaracarmona.es/ejecutar-charts-de-helm-con-helmfile/)
 - [Herramientas para Terraform](https://vergaracarmona.es/herramientas-para-terraform/)
 - [Guía del comando sed](https://vergaracarmona.es/comando-sed/)
@@ -27,7 +28,6 @@
 - [Helm Umbrella Charts](https://vergaracarmona.es/helm-umbrella-charts/)
 - [Borrar commits de git: reset, rebase y cherry-pick](https://vergaracarmona.es/reset-rebase-cherry-pick/)
 - [Copiar y pegar desde la terminal](https://vergaracarmona.es/copiar-y-pegar-desde-la-terminal/)
-- [Comparando TOML, JSON y YAML](https://vergaracarmona.es/comparando-toml-json-y-yaml/)
 <!-- APUNTES:END -->
 
 <br>
