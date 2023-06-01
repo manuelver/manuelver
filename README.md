@@ -18,6 +18,7 @@
 [Last notes (In Spanish)](https://vergaracarmona.es/apuntes):
 
 <!-- APUNTES:START -->
+- [Guía para un Plan de Recuperación de Desastres en un entorno Kubernetes](https://vergaracarmona.es/guia-para-un-plan-de-recuperacion-de-desastres-en-kubernetes/)
 - [Código Espagueti, el «anti patrón» de programación](https://vergaracarmona.es/codigo-espagueti-el-anti-patron-de-programacion/)
 - [Ejecutar Charts de Helm con helmfile](https://vergaracarmona.es/ejecutar-charts-de-helm-con-helmfile/)
 - [Herramientas para Terraform](https://vergaracarmona.es/herramientas-para-terraform/)
@@ -27,7 +28,6 @@
 - [grep, find y locate. Comandos de búsqueda en Linux](https://vergaracarmona.es/grep-find-locate-comandos-linux/)
 - [Helm Umbrella Charts](https://vergaracarmona.es/helm-umbrella-charts/)
 - [Borrar commits de git: reset, rebase y cherry-pick](https://vergaracarmona.es/reset-rebase-cherry-pick/)
-- [Copiar y pegar desde la terminal](https://vergaracarmona.es/copiar-y-pegar-desde-la-terminal/)
 <!-- APUNTES:END -->
 
 <br>
