@@ -17,6 +17,8 @@
 
 [Last notes (In Spanish)](https://vergaracarmona.es/apuntes):
 
+<table>
+  <tr><th>Title</th><th>Link</th><th>Date</th><th>Category</th></tr>
 <!-- APUNTES:START -->
 - [Guía para un Plan de Recuperación de Desastres en un entorno Kubernetes](https://vergaracarmona.es/guia-para-un-plan-de-recuperacion-de-desastres-en-kubernetes/)
 - [Código Espagueti, el «anti patrón» de programación](https://vergaracarmona.es/codigo-espagueti-el-anti-patron-de-programacion/)
@@ -29,8 +31,20 @@
 - [Helm Umbrella Charts](https://vergaracarmona.es/helm-umbrella-charts/)
 - [Borrar commits de git: reset, rebase y cherry-pick](https://vergaracarmona.es/reset-rebase-cherry-pick/)
 <!-- APUNTES:END -->
-
+</table>
 <br>
+
+```
+  ____                  ____                      
+ / __ \___  ___ ___    / __/__  __ _____________  
+/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
+\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
+   _/_/                  __  __   _               
+  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
+ / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
+/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
+                 /___/                /___/       
+```
 
 ---
 ## Stats

@@ -16,3 +16,6 @@ jobs:
                 max_post_count: "20"
                 readme_path: ./README.md
                 comment_tag_name: "APUNTES"
+                date_format: UTC:dd/mm/yyyy
+                template: "<tr><td>$randomEmoji $title</td><td>$url</td><td>$date</td><td>Category</td></tr>"
+
