@@ -19,18 +19,7 @@
 
 <table>
   <tr><th>Title</th><th>Link</th><th>Date</th><th>Category</th></tr>
-<!-- APUNTES:START -->
-- [Guía para un Plan de Recuperación de Desastres en un entorno Kubernetes](https://vergaracarmona.es/guia-para-un-plan-de-recuperacion-de-desastres-en-kubernetes/)
-- [Código Espagueti, el «anti patrón» de programación](https://vergaracarmona.es/codigo-espagueti-el-anti-patron-de-programacion/)
-- [Ejecutar Charts de Helm con helmfile](https://vergaracarmona.es/ejecutar-charts-de-helm-con-helmfile/)
-- [Herramientas para Terraform](https://vergaracarmona.es/herramientas-para-terraform/)
-- [Guía del comando sed](https://vergaracarmona.es/comando-sed/)
-- [Cómo manejar un incidente post mortem informático](https://vergaracarmona.es/como-manejar-un-incidente-post-mortem-informatico/)
-- [Tutorial de Vim](https://vergaracarmona.es/tutorial-de-vim/)
-- [grep, find y locate. Comandos de búsqueda en Linux](https://vergaracarmona.es/grep-find-locate-comandos-linux/)
-- [Helm Umbrella Charts](https://vergaracarmona.es/helm-umbrella-charts/)
-- [Borrar commits de git: reset, rebase y cherry-pick](https://vergaracarmona.es/reset-rebase-cherry-pick/)
-<!-- APUNTES:END -->
+<!-- APUNTES:START --><tr><td>$randomEmoji Guía para un Plan de Recuperación de Desastres en un entorno Kubernetes</td><td>https://vergaracarmona.es/guia-para-un-plan-de-recuperacion-de-desastres-en-kubernetes/</td><td>01/06/2023</td><td>Category</td></tr><tr><td>$randomEmoji Código Espagueti, el «anti patrón» de programación</td><td>https://vergaracarmona.es/codigo-espagueti-el-anti-patron-de-programacion/</td><td>26/05/2023</td><td>Category</td></tr><tr><td>$randomEmoji Ejecutar Charts de Helm con helmfile</td><td>https://vergaracarmona.es/ejecutar-charts-de-helm-con-helmfile/</td><td>16/05/2023</td><td>Category</td></tr><tr><td>$randomEmoji Herramientas para Terraform</td><td>https://vergaracarmona.es/herramientas-para-terraform/</td><td>14/05/2023</td><td>Category</td></tr><tr><td>$randomEmoji Guía del comando sed</td><td>https://vergaracarmona.es/comando-sed/</td><td>19/02/2023</td><td>Category</td></tr><tr><td>$randomEmoji Cómo manejar un incidente post mortem informático</td><td>https://vergaracarmona.es/como-manejar-un-incidente-post-mortem-informatico/</td><td>13/01/2023</td><td>Category</td></tr><tr><td>$randomEmoji Tutorial de Vim</td><td>https://vergaracarmona.es/tutorial-de-vim/</td><td>13/12/2022</td><td>Category</td></tr><tr><td>$randomEmoji grep, find y locate. Comandos de búsqueda en Linux</td><td>https://vergaracarmona.es/grep-find-locate-comandos-linux/</td><td>08/12/2022</td><td>Category</td></tr><tr><td>$randomEmoji Helm Umbrella Charts</td><td>https://vergaracarmona.es/helm-umbrella-charts/</td><td>07/12/2022</td><td>Category</td></tr><tr><td>$randomEmoji Borrar commits de git: reset, rebase y cherry-pick</td><td>https://vergaracarmona.es/reset-rebase-cherry-pick/</td><td>20/11/2022</td><td>Category</td></tr><!-- APUNTES:END -->
 </table>
 <br>
 
