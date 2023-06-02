@@ -13,6 +13,6 @@ jobs:
               uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 feed_list: "https://vergaracarmona.es/feed/"
-                max_post_count: "12"
+                max_post_count: "20"
                 readme_path: ./README.md
                 comment_tag_name: "APUNTES"
