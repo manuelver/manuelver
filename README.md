@@ -36,8 +36,11 @@
 ```
 
 <br>
+
 ---
+
 ## Stats
+
 ![Profile views](https://komarev.com/ghpvc/?username=manuelver&color=lightgrey)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=manuelver.manuelver)
 
