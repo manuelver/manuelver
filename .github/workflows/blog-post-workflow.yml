@@ -19,5 +19,5 @@ jobs:
                 readme_path: ./README.md
                 comment_tag_name: "APUNTES"
                 date_format: UTC:dd/mm/yyyy
-                template: "<tr><td>$date</td><td>$categories</td><td>$randomEmoji(💯,🔥,💫,🚀,🦾,🤙🏾,😎,🤖,👽,👀,😺,🗣,👩🏽‍💻,💼,🐍,🐳,🌱,⚡️,💫,🌻,🍺,🎲,📱,💻,🛠,⚙️,🔑,📦,📎,🌐,🌀,🔔,📢) <b>$title</b></td><td>$url</td></tr>"
+                template: "<tr><td>$date</td><td>$randomEmoji(💯,🔥,💫,🚀,🦾,🤙🏾,🤖,🗣,👩🏽‍💻,💼,🐍,🐳,🌱,⚡️,💫,🌻,🍺,💻,🛠,🔑,📦,📎,🔔,📢) <b>$title</b></td><td>$url</td><td>$categories</td></tr>"
 
