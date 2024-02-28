@@ -4,96 +4,107 @@
 
 ## Manuel Vergara - SysAdmin
 
-[![Web](https://img.shields.io/badge/vergaracarmona.es-yellow?style=for-the-badge)](https://vergaracarmona.es) 
-[![Respositorio Gitea](https://img.shields.io/badge/Gitea-green?style=for-the-badge)](https://gitea.vergaracarmona.es/manuelver)
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/manu-vergara)
-[![Certificaciones](https://img.shields.io/badge/Certificaciones-orange?style=for-the-badge)](https://vergaracarmona.es/certificaciones)
+<p align="left"> 
+  <a href="https://www.vergaracarmona.es" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://img.shields.io/badge/vergaracarmona.es-yellow?style=for-the-badge" alt="Web"/> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://img.shields.io/badge/Gitea-green?style=for-the-badge" alt="Gitea"/> 
+  </a> 
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge" alt="Linkedin"/> 
+  </a> 
+  <a href="https://helm.sh/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://img.shields.io/badge/Certificaciones-orange?style=for-the-badge" alt="Certificaciones"/> 
+  </a> 
+</p>
 
 <br>
 
 ### Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
-    </a> 
-    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/> 
-    </a> 
-    <a href="https://helm.sh/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.github.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="40" height="40"/> 
-    </a> 
-    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="Github" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.ansible.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-plain.svg" alt="Ansible" width="40" height="40"/> 
-    </a> 
-    <!-- <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="ArgoCD" width="40" height="40"/> 
-    </a>  -->
-    <!-- <a href="https://azure.microsoft.com/en-us/products/devops/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-plain.svg" alt="Azure DevOps" width="40" height="40"/> 
-    </a>  -->
-    <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="40" height="40"/> 
-    </a> 
-    <a href="https://apache.org/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/> 
-    </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
+  </a> 
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/> 
+  </a> 
+  <a href="https://helm.sh/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.github.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="40" height="40"/> 
+  </a> 
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="Github" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-plain.svg" alt="Ansible" width="40" height="40"/> 
+  </a> 
+  <!-- <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="ArgoCD" width="40" height="40"/> 
+  </a>  -->
+  <!-- <a href="https://azure.microsoft.com/en-us/products/devops/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-plain.svg" alt="Azure DevOps" width="40" height="40"/> 
+  </a>  -->
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="40" height="40"/> 
+  </a> 
+  <a href="https://apache.org/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/> 
+  </a> 
 </p>
+
 <p align="left"> 
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/> 
-    </a> 
-    <a href="https://prometheus.io/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/> 
-    </a> 
-    <a href="https://grafana.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/> 
-    </a> 
-    <a href="https://terraform.io/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/> 
-    </a> 
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
-    </a> 
-    <!-- <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/> 
-    </a>   -->
-    <!--  <a href="https://cloud.google.com/?hl=en" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCloud" width="40" height="40"/> 
-    </a>  -->
-    <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="Digital Ocean" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.vim.org/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-    </a>
-    <a href="https://go.dev/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/> 
-    </a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/> 
+  </a> 
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/> 
+  </a> 
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/> 
+  </a> 
+  <a href="https://terraform.io/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/> 
+  </a> 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
+  </a> 
+  <!-- <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/> 
+  </a>   -->
+  <!--  <a href="https://cloud.google.com/?hl=en" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCloud" width="40" height="40"/> 
+  </a>  -->
+  <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="Digital Ocean" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.vim.org/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/> 
+  </a>
 </p>
 
 <br>
