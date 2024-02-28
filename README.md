@@ -4,22 +4,10 @@
 
 ## Manuel Vergara - SysAdmin
 
-<div align="left">
-  <a href="https://vergaracarmona.es" target="_blank" rel="noreferrer"> 
-    <button style="background-color: #FFE70F; color: #000; width: 150px; height: 40px; border-radius: 5px; font-family: 'Lato', sans-serif; font-weight: 900; margin-right: 10px; border: none">WEB</button>
-  </a> 
-  <a href="https://gitea.vergaracarmona.es/manuelver" target="_blank" rel="noreferrer"> 
-    <button style="background-color: #609926; color: #000; width: 150px; height: 40px; border-radius: 5px; font-family: 'Lato', sans-serif; font-weight: 900; margin-right: 10px; border: none">GITEA</button>
-  </a> 
-  <a href="https://www.linkedin.com/in/manu-vergara" target="_blank" rel="noreferrer"> 
-    <button style="background-color: #0a66c2; color: #fff; width: 150px; height: 40px; border-radius: 5px; font-family: 'Lato', sans-serif; font-weight: 900; margin-right: 10px; border: none">LINKEDIN</button>
-  </a> 
-  <a href="https://vergaracarmona.es/certificaciones" target="_blank" rel="noreferrer"> 
-    <button style="background-color: #110B24; color: #fff; width: 150px; height: 40px; border-radius: 5px; font-family: 'Lato', sans-serif; font-weight: 900; margin-right: 10px; border: none">CERTIFICACIONES</button>
-  </a>
-</div>
-
-
+[![Web](https://img.shields.io/badge/vergaracarmona.es-yellow?style=for-the-badge)](https://vergaracarmona.es) 
+[![Respositorio Gitea](https://img.shields.io/badge/Gitea-green?style=for-the-badge)](https://gitea.vergaracarmona.es/manuelver)
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/manu-vergara)
+[![Certificaciones](https://img.shields.io/badge/Certificaciones-orange?style=for-the-badge)](https://vergaracarmona.es/certificaciones)
 
 <br>
 
