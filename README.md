@@ -45,6 +45,9 @@
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="Github" width="40" height="40"/> 
   </a> 
+</p>
+
+<p align="left"> 
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-plain.svg" alt="Ansible" width="40" height="40"/> 
   </a> 
@@ -63,9 +66,6 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/> 
   </a> 
-</p>
-
-<p align="left"> 
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/> 
   </a> 
@@ -75,6 +75,9 @@
   <a href="https://grafana.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/> 
   </a> 
+</p>
+
+<p align="left"> 
   <a href="https://terraform.io/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/> 
   </a> 
@@ -102,9 +105,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+  <!-- <a href="https://go.dev/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/> 
-  </a>
+  </a> -->
 </p>
 
 <br>
