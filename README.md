@@ -8,13 +8,13 @@
   <a href="https://www.vergaracarmona.es" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://img.shields.io/badge/vergaracarmona.es-yellow?style=for-the-badge" alt="Web"/> 
   </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+  <a href="https://gitea.vergaracarmona.es/manuelver" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://img.shields.io/badge/Gitea-green?style=for-the-badge" alt="Gitea"/> 
   </a> 
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+  <a href="https://www.linkedin.com/in/manu-vergara/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge" alt="Linkedin"/> 
   </a> 
-  <a href="https://helm.sh/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+  <a href="https://vergaracarmona.es/certificaciones" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://img.shields.io/badge/Certificaciones-orange?style=for-the-badge" alt="Certificaciones"/> 
   </a> 
 </p>
