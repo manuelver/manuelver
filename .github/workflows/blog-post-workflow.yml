@@ -2,7 +2,7 @@ name: Latest blog post workflow 📖
 on: 
     workflow_dispatch:
     schedule:
-        - cron: '0 7 * * 0,1,6'
+        - cron: '0 11 * * 6'
         
 jobs: 
     update-readme-with-blog: 
