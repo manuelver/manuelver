@@ -139,6 +139,14 @@
 
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Goblinlordx/commit-invaders/output/commit-invaders-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Goblinlordx/commit-invaders/output/commit-invaders.svg">
+  <img alt="Commit Invaders Animation" src="https://raw.githubusercontent.com/Goblinlordx/commit-invaders/output/commit-invaders.svg" width="100%">
+</picture>
+
+<br>
+
 <p align="center">
  ⬇️  Check out my repos  ⬇️ 
 </p>
