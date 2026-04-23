@@ -1,4 +1,17 @@
-![snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ## Manuel Vergara - SysAdmin
 
@@ -130,20 +143,18 @@
 </p>
 <br>
 
----
-
-<br>
-<p align="center">
-    <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="70%"/>
-</p>
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Goblinlordx/commit-invaders/output/commit-invaders-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Goblinlordx/commit-invaders/output/commit-invaders.svg">
   <img alt="Commit Invaders Animation" src="https://raw.githubusercontent.com/Goblinlordx/commit-invaders/output/commit-invaders.svg" width="100%">
 </picture>
+
+<br>
+
+<br>
+<p align="center">
+    <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="70%"/>
+</p>
 
 <br>
 
