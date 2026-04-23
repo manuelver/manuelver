@@ -2,7 +2,7 @@
 
 ## Manuel Vergara - SysAdmin
 
-<p align="left"> 
+<p> 
   <a href="https://www.vergaracarmona.es" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://img.shields.io/badge/vergaracarmona.es-yellow?style=for-the-badge" alt="Web"/> 
   </a> 
@@ -19,7 +19,7 @@
 
 ### Languages and Tools:
 
-<p align="left"> 
+<p> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
   </a> 
@@ -46,7 +46,7 @@
   </a> 
 </p>
 
-<p align="left"> 
+<p> 
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-plain.svg" alt="Ansible" width="40" height="40"/> 
   </a> 
@@ -76,7 +76,7 @@
   </a> 
 </p>
 
-<p align="left"> 
+<p> 
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
   </a> 
@@ -120,6 +120,14 @@
 <!-- APUNTES:START --><tr><td>11/11/2025</td><td>🤖 <b>Análisis de un dominio desde la terminal</b></td><td>https://vergaracarmona.es/analisis-dominio-desde-terminal/</td><td>Guías, Comandos, Linux, Seguridad</td></tr><tr><td>27/10/2025</td><td>🤖 <b>Bloquear Bots usando el archivo robots.txt</b></td><td>https://vergaracarmona.es/bloquear-bots-robots-txt/</td><td>Tutoriales, Seguridad</td></tr><tr><td>06/10/2025</td><td>🍺 <b>Terraform Actions: Análisis en Profundidad</b></td><td>https://vergaracarmona.es/terraform-actions-analisis-en-profundidad/</td><td>Guías, AWS, CICD, Terraform</td></tr><tr><td>26/04/2025</td><td>🤙🏾 <b>Jugar con Terraform en local con LocalStack</b></td><td>https://vergaracarmona.es/jugar-con-terraform-en-local-con-localstack/</td><td>Tutoriales, AWS, Terraform</td></tr><tr><td>12/11/2024</td><td>🚀 <b>Verificar certificados con OpenSSL</b></td><td>https://vergaracarmona.es/verificar-certificados-con-openssl/</td><td>Tutoriales, Comandos, Linux, Seguridad</td></tr><tr><td>11/09/2024</td><td>🔥 <b>Consejos para los Secretos en Docker</b></td><td>https://vergaracarmona.es/consejos-para-los-secretos-en-docker/</td><td>Tutoriales, Docker, Seguridad</td></tr><tr><td>31/08/2024</td><td>⚡️ <b>Guía de configuración básica de GRUB</b></td><td>https://vergaracarmona.es/guia-de-configuracion-basica-de-grub/</td><td>Guías, Linux, Ubuntu</td></tr><tr><td>14/08/2024</td><td>🔥 <b>Registros de Ubuntu: Verificar y configurar archivos de logs</b></td><td>https://vergaracarmona.es/registros-de-ubuntu-verificar-y-configurar-archivos-de-logs/</td><td>Guías, Logs, Seguridad, Ubuntu</td></tr><tr><td>13/08/2024</td><td>🛠 <b>Clean Code básico en Python</b></td><td>https://vergaracarmona.es/clean-code-basico-en-python/</td><td>Guías, Estándar, Programación, Python</td></tr><tr><td>10/08/2024</td><td>🔥 <b>Laboratorios de infra con Docker Compose y Python</b></td><td>https://vergaracarmona.es/laboratorios-de-infra-con-docker-compose-y-python/</td><td>Tutoriales, Contenedores, Docker, Python</td></tr><!-- APUNTES:END -->
 </table>
 <br>
+
+---
+
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manuelver&show_icons=true&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=manuelver&theme=tokyonight"/>
+</p>
 
 <p align="center">
     <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="70%"/>
