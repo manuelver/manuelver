@@ -41,6 +41,9 @@
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="Github" width="40" height="40"/> 
   </a> 
+  <a href="https://docs.gitea.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Gitea_Logo.svg" alt="Gitea" width="40" height="40"/> 
+  </a> 
 </p>
 
 <p align="left"> 
@@ -49,9 +52,6 @@
   </a> 
   <!-- <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="ArgoCD" width="40" height="40"/> 
-  </a>  -->
-  <!-- <a href="https://azure.microsoft.com/en-us/products/devops/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-plain.svg" alt="Azure DevOps" width="40" height="40"/> 
   </a>  -->
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="40" height="40"/> 
@@ -70,22 +70,22 @@
   </a> 
   <a href="https://grafana.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/> 
+  <a href="https://terraform.io/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/> 
+  </a> 
   </a> 
 </p>
 
 <p align="left"> 
-  <a href="https://terraform.io/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/> 
-  </a> 
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
   </a> 
   <!-- <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/> 
   </a>   -->
-  <!--  <a href="https://cloud.google.com/?hl=en" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+   <a href="https://cloud.google.com/?hl=en" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCloud" width="40" height="40"/> 
-  </a>  -->
+  </a> 
   <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="Digital Ocean" width="40" height="40"/> 
   </a> 
@@ -95,6 +95,9 @@
   <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40"/> 
   </a> 
+  <a href="https://www.latex-project.org/help/documentation/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/latex/latex-original.svg" alt="Latex" width="40" height="40"/> 
+  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="padding-right:12px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> 
   </a> 
